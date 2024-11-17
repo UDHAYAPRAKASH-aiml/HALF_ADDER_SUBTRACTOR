@@ -69,16 +69,15 @@ assign difference= (a ^ b);
 assign borrow= ( ~a & b);
 endmodule
 ```
-
 **RTL Schematic**
 HALF ADDER:
 ![Screenshot (10)](https://github.com/user-attachments/assets/6121a3c2-cd25-43cd-969e-fcd20b5efc12)
 HALF SUBTRACTOR:
-![Screenshot 2024-11-13 112056](https://github.com/user-attachments/assets/da35cd4d-a40a-4349-9052-0bc69c47d322)
+![Screenshot (13)](https://github.com/user-attachments/assets/465189b9-f518-45a7-a5c0-3611c0f026d0)
 
 **Output/TIMING Waveform**
 HALF ADDER:
-![Screenshot (13)](https://github.com/user-attachments/assets/465189b9-f518-45a7-a5c0-3611c0f026d0)
+![Screenshot 2024-11-13 112056](https://github.com/user-attachments/assets/da35cd4d-a40a-4349-9052-0bc69c47d322)
 HALF SUBTRACTOR:
 ![Screenshot (14)](https://github.com/user-attachments/assets/7596528a-8a70-4f57-8795-72a839410d20)
 
